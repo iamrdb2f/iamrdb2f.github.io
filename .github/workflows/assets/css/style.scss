@@ -2,3 +2,66 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+  font-family: 'Helvetica', sans-serif;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Garamond', serif;
+  color: #555;
+}
+
+
+a {
+  color: #3498db;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+header, footer {
+  background-color: #f8f9fa;
+  color: #333;
+  padding: 10px 0;
+}
+
+.navbar {
+  background-color: #333;
+  .nav-link {
+    color: #fff;
+
+    &:hover {
+      background-color: #555;
+    }
+  }
+}
+
+button {
+  background-color: #007bff;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+
+  &:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid #007bff;
+  }
+}
+
+img {
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  padding: 5px;
+}
