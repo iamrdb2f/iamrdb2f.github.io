@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UN FRAMEWORK DE TEST AUTOMATIQUE BASÉ SUR SELENIUM ET UTILISANT ORANGE HUMAN RESSOURCES MANAGEMENT"
+title: "Un Framework de tests automatisé basé sur Selenium et utilisant Orange Human Ressources Management (OHRM)"
 categories: Programmation
 author:
 - Roland Guissony

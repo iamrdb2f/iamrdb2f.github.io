@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MANIFESTE POUR DES PRATIQUES DURABLES AU SEIN DES ORGANISATIONS MEMBRES DE LA FÉDÉRATION POUR L’ENTREPRENEURIAT DURABLE"
+title: "Manifeste pour des pratiques durables au sein des organisations membres de la Fédération pour l'Entrepreneuriat Durable"
 categories: Gouvernance
 author:
 - Roland Guissony
