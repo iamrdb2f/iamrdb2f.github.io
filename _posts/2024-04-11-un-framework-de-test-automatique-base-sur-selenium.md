@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UN FRAMEWORK DE TEST AUTOMATIQUE BASÉ SUR SELENIUM ET UTILISANT ORANGE HUMAN RESSOURCES MANAGEMENT."
-categories: Gouvernance
+categories: Programmation
 author:
 - Roland Guissony
 ---
