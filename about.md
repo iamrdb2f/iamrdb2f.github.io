@@ -4,7 +4,7 @@ title: À propos
 permalink: /a-propos/
 ---
 
-# RECRUTER UN AUTOMATICIEN DES TESTS LOGICIELS QUI SAIT CRÉER DU SENS...
+# Recrutez un Ingénieur QA qui crée du sens... et qui a du talent.
 
 #### En tant que testeur logiciel certifié et titulaire de deux diplômes d'écoles d'ingénieurs, je suis déterminé à rejoindre une entreprise où l'assurance qualité revêt une importance significative et est pleinement intégrée dans l'organisation des équipes informatiques et des métiers.
 
@@ -17,3 +17,5 @@ permalink: /a-propos/
 #### En m'engageant, vous vous assurez des bénéfices et des gains de temps certains dans la réalisation de vos campagnes de tests.
 
 #### Pour en savoir plus sur mes projets, suivez-moi sur [Github](https://github.com/iamrdb2f).
+
+#### Vous pouvez aussi consulter mon [Portfolio](https://rolandguissony.com/portfolio/).
