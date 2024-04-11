@@ -1,7 +1,9 @@
 ---
+# Only the main Minima styles can be imported.
+# The rest of this file is currently your custom styles for your site.
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
 
 body {
   font-family: 'Helvetica', sans-serif;
