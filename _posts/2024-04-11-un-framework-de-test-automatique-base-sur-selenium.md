@@ -55,4 +55,4 @@ Veillez bien à ce que le répertoire resources soit marqué comme **Test Resour
 
 Pour poursuivre la suite de ce projet, veuillez consulter le Repo Github suivant afin d'adapter la structure de votre projet : [Un Framework de tests automatisé basé sur Selenium et utilisant Orange Human Ressources Management (OHRM)](https://github.com/iamrdb2f/orangehrm-test-aut-framework)
 
-Pour aller plus loin ety collaborer avec moi dans le cadre de ce projet, veuillez me contacter à l'adresse mail suivante : [dev@rolandguissony.com](mailto:dev@rolandguissony.com) afin de demander un accès au projet et à l'équipe principale.
+Pour aller plus loin et collaborer avec moi dans le cadre de ce projet, veuillez me contacter à l'adresse mail suivante : [dev@rolandguissony.com](mailto:dev@rolandguissony.com) afin de demander un accès au projet et à l'équipe principale.
