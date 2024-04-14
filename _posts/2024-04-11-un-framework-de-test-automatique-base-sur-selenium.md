@@ -6,7 +6,7 @@ author:
 - Roland Guissony
 ---
 
-![OrangeHRMTestAutomation](/images/ohrm-test-framework.jpg)
+![Logo de Selenium](https://www.all4test.fr/wp-content/uploads/2023/12/selenium.jpeg)
 
 Orange HRM est un logiciel de gestion des ressources humaines open source. Il est utilisé par de nombreuses entreprises pour gérer leurs ressources humaines. Il est basé sur Java et utilise une base de données MySQL. Il est également compatible avec les navigateurs Web les plus populaires tels que Chrome, Firefox, Safari et Internet Explorer.
 
