@@ -10,3 +10,6 @@ title: It is on this very foundation that la <em>Fédération pour l’Entrepren
 permalink: /
 ---
 
+#### Read the [Manifesto](/gouvernance/2022/12/09/manifeste-pour-des-pratiques-durables-au-sein-des-orgs-de-la-fed.html).
+
+#### Follow me on [GitHub](https://github.com/iamrdb2f/).

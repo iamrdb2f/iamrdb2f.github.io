@@ -1,10 +1,10 @@
-title: rolandguissony.com
+title: Roland Guissony
 author:
   name: Roland Guissony
   email: dev@rolandguissony.com
 
 description: >
-  Hello, Je m'appelle Roland Guissony. Je suis spécialiste et expert en assurance qualité logicielle.
+  Hello and welcome to my root website, my name is Roland Guissony. I am a Quality Assurance Engineering Expert.
 
 # Build settings
 theme: minima
@@ -23,7 +23,6 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
-  - portfolio.md
 
 # Set to `true` to show excerpts on the homepage.
 # show_excerpts: false

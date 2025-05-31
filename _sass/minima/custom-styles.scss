@@ -1,2 +1,33 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.hero {
+    text-align: center;
+    padding: 5rem 2rem;
+    background-color: #f4f4f4;
+}
+.hero h1 {
+    font-size: 2.4rem;
+    line-height: 1.6;
+    font-weight: 700;
+    color: #222;
+    max-width: 900px;
+    margin: 0 auto 2rem auto;
+}
+.hero .buttons {
+    margin-top: 2rem;
+}
+.hero .buttons a {
+    display: inline-block;
+    margin: 0 0.75rem;
+    padding: 0.75rem 1.5rem;
+    background-color: #0057b8;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+.hero .buttons a:hover {
+    background-color: #004494;
+}
