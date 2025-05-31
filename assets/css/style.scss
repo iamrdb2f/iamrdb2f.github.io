@@ -161,9 +161,9 @@ h1.page-heading, h1.post-title, h1 {
 /* === JUSTIFICATION DU TEXTE POUR LES AUTRES PAGES (hors home) === */
 
 /* Justifie le contenu de la page About */
-.page-content .about-page .post-content p,
-.page-content .about-page .post-content li,
-.page-content .about-page .post-content h4 {
+body.about-page .post-content p,
+body.about-page .post-content li,
+body.about-page .post-content h4 {
   text-align: justify;
   text-justify: inter-word;
 }
