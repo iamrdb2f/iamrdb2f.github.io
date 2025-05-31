@@ -67,3 +67,153 @@ img {
   border: 1px solid #ddd;
   padding: 5px;
 }
+
+/* === CUSTOM OVERRIDES FOR ROLAND GUISSONY WEBSITE === */
+
+/* === Global Typography Enhancements === */
+h1.page-heading, h1.post-title, h1{
+  text-align: center;
+  font-size: 2.2em;
+  font-weight: 600;
+  line-height: 1.6;
+  max-width: 900px;
+  margin: 0 auto 2rem;
+}
+
+h4, p, li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* === Center Post Meta (Manifeste Page) === */
+.post-meta {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+/* === Manifest Text Justification === */
+.post-content {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.8;
+}
+
+/* === About Page Specific (if applicable) === */
+.page-content .wrapper .post-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.page-title {
+  text-align: center;
+}
+
+/* === Media Queries for Responsiveness === */
+@media screen and (max-width: 768px) {
+  h1.page-heading {
+    font-size: 1.6em;
+    padding: 0 1em;
+  }
+
+  .home h4#read-the-manifesto a,
+  .home h4#follow-me-on-github a {
+    display: block;
+    margin: 0.5em auto;
+  }
+}
+
+/* === STYLES GLOBAUX === */
+
+.page-heading {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+h4#read-the-manifesto,
+h4#follow-me-on-github {
+  text-align: center;
+  display: inline-block;
+  margin: 1rem 0.5rem;
+}
+
+h4#read-the-manifesto a,
+h4#follow-me-on-github a {
+  background-color: #007acc;
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+h4#read-the-manifesto a:hover,
+h4#follow-me-on-github a:hover {
+  background-color: #005b99;
+}
+
+/* Conteneur des deux boutons côte à côte */
+.hero-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+/* === MANIFESTE === */
+
+.post-title,
+.post-meta {
+  text-align: center;
+}
+
+.post-content ol,
+.post-content p,
+.post-content li {
+  text-align: justify;
+}
+
+/* === PAGE ABOUT === */
+
+.about-page .post-title {
+  text-align: center;
+  font-size: 2.2rem;
+}
+
+.about-page .post-content p {
+  text-align: justify;
+}
+
+
+/* === HERO BUTTON WRAPPER FOR HOMEPAGE === */
+.h4 {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.h4 {
+  margin: 0;
+}
+
+.h4 a {
+  display: inline-block;
+  background-color: #007acc;
+  color: #fff;
+  padding: 0.7em 1.4em;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.h4 a:hover {
+  background-color: #005b99;
+}
