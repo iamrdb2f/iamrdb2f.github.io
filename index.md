@@ -6,4 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: It is on this very foundation that la <em>Fédération pour l’Entrepreneuriat Durable</em> was crafted — bold, visionary, and a driving force for sustainable innovation.
+permalink: /
 ---
+
