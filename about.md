@@ -1,21 +1,21 @@
 ---
 layout: page
-title: À propos
+title: About me
 permalink: /a-propos/
 ---
 
-# Recrutez un Ingénieur QA qui crée du sens... et qui a du talent.
+# Expertise in Software Quality and Test Automation.
 
-#### En tant que testeur logiciel certifié et titulaire de deux diplômes d'écoles d'ingénieurs, je suis déterminé à rejoindre une entreprise où l'assurance qualité revêt une importance significative et est pleinement intégrée dans l'organisation des équipes informatiques et des métiers.
+#### As a designer of robust test solutions, I specialize in software quality assurance with a strong focus on automation, validation best practices, and continuous integration.
 
-> Je pratique l'informatique et le génie logiciel par passion.
+> I develop and test digital systems with one goal in mind: reliability, efficiency, performance.
 
-#### Mon introduction dans le domaine du logiciel s'est faite à travers un parcours universitaire classique, mais ma volonté de me spécialiser dans le contrôle et l'assurance qualité logicielle m'a permis de devenir un expert reconnu dans mon domaine professionnel.
+#### My expertise includes the design, implementation, and optimization of test campaigns, combining cutting-edge technologies (Java, Selenium, Jenkins, etc.) with Agile or DevOps environments.
 
-#### J'ai concrétisé cette volonté en collaborant avec des entreprises du secteur bancaire et financier, ce qui m'a permis d'acquérir les compétences nécessaires pour réussir dans des environnements agiles ou hybrides.
+#### I am proficient in various open-source tools and collaborative platforms to ensure a high level of automation, functional coverage, and defect documentation.
 
-#### En m'engageant, vous vous assurez des bénéfices et des gains de temps certains dans la réalisation de vos campagnes de tests.
+#### Trained at university and ISTQB-certified, I have enriched my career through collaborations in demanding banking and industrial contexts, developing solutions aligned with real business needs.
 
-#### Pour en savoir plus sur mes projets, suivez-moi sur [Github](https://github.com/iamrdb2f).
+#### I am also involved in training, mentoring, and knowledge-sharing projects around Software Quality Assurance.
 
-#### Vous pouvez aussi consulter mon [Portfolio](https://rolandguissony.com/portfolio/).
+#### See my GitHub projects [Github](https://github.com/iamrdb2f).
