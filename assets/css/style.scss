@@ -157,3 +157,26 @@ h1.page-heading, h1.post-title, h1 {
   flex-wrap: wrap;
   width: 100%;
 }
+
+/* === JUSTIFICATION DU TEXTE POUR LES AUTRES PAGES (hors home) === */
+
+/* Justifie le contenu de la page About */
+.page-content .about-page .post-content p,
+.page-content .about-page .post-content li,
+.page-content .about-page .post-content h4 {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Justifie le contenu du manifeste uniquement */
+.page-content .post-content p,
+.page-content .post-content li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Centrer le titre de la page manifeste */
+.post-title,
+.post-meta {
+  text-align: center;
+}
